@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\libroendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\libroendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\usuarioendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\usuarioendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\authenticationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\authenticationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.domain\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.infraestructure.data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|solutionrelative:cleanarchitecture.infraestructure.data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.domain\\interfaces\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\interfaces\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.application\\services\\libroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\libroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.application\\interfaces\\ilibroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\interfaces\\ilibroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.infraestructure.data\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|solutionrelative:cleanarchitecture.infraestructure.data\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.infraestructure.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|solutionrelative:cleanarchitecture.infraestructure.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.application\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.application\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\interfaces\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B56F13E-D227-4107-908E-65C2E6F6E36C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.minimalapi\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E7D165-097B-479A-B02C-4E6FD7F39124}|CleanArchitecture.MinimalApi\\CleanArchitecture.MinimalApi.csproj|solutionrelative:cleanarchitecture.minimalapi\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168B6089-FBE1-4059-9297-2AF2525D62D1}|CleanArchitecture.Infraestructure.IoC\\CleanArchitecture.Infraestructure.IoC.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.infraestructure.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168B6089-FBE1-4059-9297-2AF2525D62D1}|CleanArchitecture.Infraestructure.IoC\\CleanArchitecture.Infraestructure.IoC.csproj|solutionrelative:cleanarchitecture.infraestructure.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.infraestructure.data\\context\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|solutionrelative:cleanarchitecture.infraestructure.data\\context\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.application\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B433BA-8737-49E1-B4E0-05DD9C5942D0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|d:\\sistemagestionbiblioteca\\solutioncleanarchitecture\\cleanarchitecture.infraestructure.data\\cleanarchitecture.infraestructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3916773C-66BC-4C4E-BF0B-A59D33507142}|CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj|solutionrelative:cleanarchitecture.infraestructure.data\\cleanarchitecture.infraestructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\appsettings.json",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T06:04:03.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\ITokenService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\ITokenService.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\ITokenService.cs",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:07:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioEndpoint.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\UsuarioEndpoint.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\UsuarioEndpoint.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\UsuarioEndpoint.cs",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\UsuarioEndpoint.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:09:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infraestructure.Data\\Repositories\\LibroRepository.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Infraestructure.Data\\Repositories\\LibroRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:47:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroEndpoint.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\LibroEndpoint.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\LibroEndpoint.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\LibroEndpoint.cs",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\LibroEndpoint.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAewE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:17:55.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroServices.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Services\\LibroServices.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\LibroServices.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Services\\LibroServices.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\LibroServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:38:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Interfaces\\ILibroRepository.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\ILibroRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Interfaces\\ILibroRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAzwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:34:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryEF.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\RepositoryEF.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infraestructure.Data\\RepositoryEF.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\RepositoryEF.cs",
+              "RelativeToolTip": "CleanArchitecture.Infraestructure.Data\\RepositoryEF.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIA+wC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:10:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationExtension.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\AuthenticationExtension.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\AuthenticationExtension.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\AuthenticationExtension.cs",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\AuthenticationExtension.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAewCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:14:59.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\Program.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:08:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Models\\Libro.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Models\\Libro.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Models\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:37:34.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILibroServices.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Interfaces\\ILibroServices.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Interfaces\\ILibroServices.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Interfaces\\ILibroServices.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Interfaces\\ILibroServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAzwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:38:24.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Models\\Usuario.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAzwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:25:32.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infraestructure.Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Infraestructure.Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:18:15.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\TokenService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.MinimalApi\\TokenService.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.MinimalApi\\TokenService.cs",
+              "RelativeToolTip": "CleanArchitecture.MinimalApi\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:05:06.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.IoC\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infraestructure.IoC\\DependencyContainer.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.IoC\\DependencyContainer.cs",
+              "RelativeToolTip": "CleanArchitecture.Infraestructure.IoC\\DependencyContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:47:49.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:23:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Interfaces\\IUsuarioServices.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IUsuarioServices.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Interfaces\\IUsuarioServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:35:40.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:41:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\UsuarioServices.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\UsuarioServices.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:00:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\UnitOfWork.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Application\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:03:58.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CleanArchitecture.Infraestructure.Data",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj",
+              "RelativeToolTip": "CleanArchitecture.Infraestructure.Data\\CleanArchitecture.Infraestructure.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T16:51:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\Context\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infraestructure.Data\\Context\\BibliotecaContext.cs",
+              "ToolTip": "D:\\SistemaGestionBiblioteca\\SolutionCleanArchitecture\\CleanArchitecture.Infraestructure.Data\\Context\\BibliotecaContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Infraestructure.Data\\Context\\BibliotecaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:39:48.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

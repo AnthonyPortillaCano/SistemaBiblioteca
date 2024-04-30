@@ -1,0 +1,17 @@
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.deps.json
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.runtimeconfig.json
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.dll
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.csproj.AssemblyReference.cache
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.AssemblyInfo.cs
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArc.28E16A36.Up2Date
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.dll
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\refint\CleanArchitecture.Infraestructure.Data.dll
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\CleanArchitecture.Infraestructure.Data.genruntimeconfig.cache
+D:\SistemaGestionBiblioteca\SolutionCleanArchitecture\CleanArchitecture.Infraestructure.Data\obj\Debug\net8.0\ref\CleanArchitecture.Infraestructure.Data.dll
